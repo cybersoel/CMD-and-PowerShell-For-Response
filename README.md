@@ -8,7 +8,7 @@ Executed basic incident response commands and analyse the output.
 
 <p align="center">
 <br/>
-<img src="" height="80%" width="80%" alt="portfolio"/>
+<img src="https://i.imgur.com/T6wJxrH.png" height="80%" width="80%" alt="portfolio"/>
 <br />
 
 
